@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Arrow function과 function의 차이점"
-date: 2020-12-19
+title: Arrow function과 function의 차이점
+date: 2020-12-19 22:00:00
 author: masuldev
 categories: JS
 ---
