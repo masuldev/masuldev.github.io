@@ -7,7 +7,7 @@ gems:
 exclude:
   - "/vendor/"
 # Site settings
-title: 마술의 기록물보관소
+title: 마술의 지식보관소
 subtitle:
 email: kimmoimm@gmail.com
 name: masuldev
